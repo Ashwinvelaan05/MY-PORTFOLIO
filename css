@@ -1,0 +1,31 @@
+h1{
+    font-size: 64px; 
+    color: darkblue;
+
+}
+body{
+    color: black; 
+    background-color: crimson;
+}
+.landing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.about{
+    color: blue;
+}
+.myprojects{
+    display: flex;
+    border-width: 15px;
+}
+
+.Project{
+    border-radius: 10px;
+    margin: 2.5%;
+    list-style: none;
+    width: 33%;
+    background-color: forestgreen ;
+    height: 20vh;
+}
